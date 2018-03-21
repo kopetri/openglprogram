@@ -1,0 +1,9 @@
+[submodule "api/glm"]
+	path = api/glm
+	url = https://github.com/g-truc/glm
+[submodule "api/stb"]
+	path = api/stb
+	url = https://github.com/nothings/stb.git
+[submodule "api/glfw"]
+	path = api/glfw
+	url = https://github.com/glfw/glfw.git
